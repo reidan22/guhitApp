@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "user_id": "dan22",
+    "fname": "Dan",
+    "lname": "Pablo",
+    "password": "123",
+    "prof_pic": "default_pic.png"
+  },
+  {
+    "id": 1,
+    "user_id": "rei22",
+    "fname": "Reiniel",
+    "lname": "Apostol",
+    "password": "321",
+    "prof_pic": "test1.png"
+  },
+  {
+    "id": 2,
+    "user_id": "abc123",
+    "fname": "Hey",
+    "lname": "Ho",
+    "password": "111",
+    "prof_pic": "test.png"
+  }
+]
